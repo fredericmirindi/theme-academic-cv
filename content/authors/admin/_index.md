@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD Candidate
+title: PhD
 
 # Name pronunciation (optional)
 name_pronunciation: Frédéric Mirindi
